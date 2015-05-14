@@ -1,0 +1,9 @@
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\bin\Debug\TeacherApp.exe.config
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\bin\Debug\TeacherApp.exe
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\bin\Debug\TeacherApp.pdb
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\obj\Debug\TeacherApp.csprojResolveAssemblyReference.cache
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\obj\Debug\TeacherApp.Form1.resources
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\obj\Debug\TeacherApp.Properties.Resources.resources
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\obj\Debug\TeacherApp.csproj.GenerateResource.Cache
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\obj\Debug\TeacherApp.exe
+c:\users\mithun\documents\visual studio 2013\Projects\TeacherApp\TeacherApp\obj\Debug\TeacherApp.pdb
